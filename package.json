@@ -1,11 +1,21 @@
 {
   "name": "flexmode-vercel",
   "version": "1.0.0",
-  "description": "FlexMode Vercel serverless functions for Razorpay checkout + secure PDF delivery",
-  "main": "index.js",
   "dependencies": {
     "razorpay": "^2.8.3"
     "dotenv": "^16.3.1"
   }
 }
 
+#{
+  #"name": "flexmode-vercel",
+  #"version": "1.0.0",
+  #"description": "FlexMode Vercel serverless functions for Razorpay checkout + secure PDF delivery",
+  #"main": "index.js",
+  #"scripts": {
+    #"start": "vercel dev"
+  #},
+  #"dependencies": {
+    #"razorpay": "^2.8.3"
+  #}
+#}
